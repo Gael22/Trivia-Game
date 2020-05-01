@@ -14,7 +14,7 @@ const quizQuestions = [
     {
         question: "What is the capital of England?",
         choices: ["Manchester", "Liverpool", "London", "Birmingham"],
-        correctAnswer: "London"
+        correctAnswer: "Londonn"
     },
 
     {
