@@ -10,7 +10,7 @@ function nextQuestion() {
     const isQuestionOver = (quizQuestions.length - 1) === currentQuestion;
     if (isQuestionOver) {
         // TODO
-        console.log('Game is over!!!!!!');
+        console.log('Game is over!!!');
         displayResult();
     } else {
         currentQuestion++;
